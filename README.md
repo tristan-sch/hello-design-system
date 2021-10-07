@@ -16,7 +16,7 @@ This is my assignment for Module 3 **Design - UI Design System**.
 
 ## Typography
 
-I chose the pairing [Nunito](https://fonts.google.com/specimen/Nunito) and [Oepn Sans](https://fonts.google.com/specimen/Open+Sans).
+I chose the pairing [Nunito](https://fonts.google.com/specimen/Nunito) and [Open Sans](https://fonts.google.com/specimen/Open+Sans).
 
 I was looking for light and engaging fonts. Something nice to look at, without complexity.
 
